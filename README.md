@@ -2,8 +2,15 @@
 
 ## 敬語・English（上位互換を作成中）
 ### 言語
-<li>PHP</li>
+<li>PHP（ver 7.1）</li>
 <li>MySQL</li>
 <li>jQuery</li>
 <li>HTML</li>
 <li>CSS</li>
+
+### 環境 
+<li>サーバー : Xfree</li>
+<li>仮想環境 : MAMP</li>
+
+### 進捗状況
+<p>2023/05/15 トップの画面を作成中・新規やトライアルを今後作成</p>
