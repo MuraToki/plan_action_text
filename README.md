@@ -4,6 +4,7 @@
 ### 言語
 <li>PHP（ver 7.1）</li>
 <li>MySQL</li>
+<li>JavaScript</li>
 <li>jQuery</li>
 <li>HTML</li>
 <li>CSS</li>
